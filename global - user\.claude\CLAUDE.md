@@ -22,7 +22,12 @@ Never assume a different account.
 
 * At the start of every response, output: `[Context: ~X% used]`
 * Never auto-compact. When context exceeds 70%, ask me: "Context at 70%. Compact now or continue?"
-* Before compaction, summarize what will be preserved vs. lost
+* Before compaction, confirm and lock the following:
+1. High level goal of your build spec
+2. Current architecture and data flow
+3. What is already implemented and considered done
+4. What is explicitly not done yet
+5. The next concrete task we are working on
 
 ---
 
