@@ -229,3 +229,11 @@ For reproducible issues
 * docs/testing/
 * docs/plans/
 * docs/archive/
+
+## Brand and Design
+
+Brand guidelines and asset inventory live here:
+
+`brand/BRAND_GUIDELINES.md`
+
+When editing marketing pages, UI, favicon, metadata, or social preview images, follow the rules in that file first.
